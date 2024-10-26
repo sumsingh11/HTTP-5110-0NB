@@ -3,7 +3,7 @@
 This repository includes the basics of web development, like HTML, CSS, and beginner JavaScript. It helps build a foundation for making simple static websites. Topics include basic HTML and CSS, an intro to JavaScript, web standards and best practices, semantic HTML, and simple form handling.
 
 ## Resources
-For more information, visit the [Official Course Page](https://mediaarts.humber.ca/programs/web-development.html)
+For more information, visit the [Official Course Page](https://mediaarts.humber.ca/programs/web-development.html).
 
 ![Intro to Web Development](https://www.isquarebs.com/blog/wp-content/uploads/2023/03/An-Introduction-to-Web-App-Development-Banner-Image.jpg)
 
